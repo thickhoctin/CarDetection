@@ -1,0 +1,9 @@
+# Ignore the .venv folder
+.venv/
+.idea/
+
+# Ignore MP4 video files
+*.mp4
+
+# Ignore PyTorch model checkpoint files
+*.pt
